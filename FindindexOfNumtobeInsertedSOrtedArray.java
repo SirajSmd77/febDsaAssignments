@@ -14,12 +14,9 @@ public class FindindexOfNumtobeInsertedSOrtedArray {
 			  }else {
 				  i++;
 			  }
-			
-			  
 		  }
 		  
 		  return arr.length;
-		  
 	  }
 
 	public static void main(String[] args) {
